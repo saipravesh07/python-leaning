@@ -1,0 +1,7 @@
+what is data type
+what are diffent type of data type 
+what are the fuction 
+what is different btw list and tuple 
+whatr is class 
+what is object
+what is inherint 
